@@ -1,5 +1,5 @@
 import express from "express";
-import routers from "./routes/routes_controler";
+import routers from "./routes/routes_controller";
 import { join } from "path";
 
 const app = express();
